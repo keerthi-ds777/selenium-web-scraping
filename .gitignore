@@ -27,6 +27,7 @@ pip-wheel-metadata/
 .venv/
 env/
 venv/
+redb/
 
 # === Jupyter Notebooks ===
 .ipynb_checkpoints
