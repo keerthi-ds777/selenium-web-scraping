@@ -1,0 +1,18 @@
+BusName,BusType,StartTime,EndTime,Rating,Price,TotalDuration,SeatsAvailable,RouteName,Links
+Kalpana Travels,AC Seater (2+2),16:50,20:15,4.5,₹351,3h 25m,29 Seats,Guwahati to Tezpur,https://www.redbus.in/bus-tickets/guwahati-to-tezpur
+Shruti(North East Travels),Tata A/C Seater (2+2),17:30,22:00,3.9,₹340,4h 30m,33 Seats,Guwahati to Tezpur,https://www.redbus.in/bus-tickets/guwahati-to-tezpur
+Yatra Travels,NON AC Seater/ Sleeper (2+1),19:00,23:45,4.6,₹375,4h 45m,28 Seats,Guwahati to Tezpur,https://www.redbus.in/bus-tickets/guwahati-to-tezpur
+Yatra Travels,A/C Seater / Sleeper (2+1),20:00,01:30,3.9,₹375,5h 30m,34 Seats,Guwahati to Tezpur,https://www.redbus.in/bus-tickets/guwahati-to-tezpur
+Laxmi Travels,A/C Seater (2+1),20:15,01:10,4.8,₹450,4h 55m,21 Seats,Guwahati to Tezpur,https://www.redbus.in/bus-tickets/guwahati-to-tezpur
+Yatra Travels,NON AC Seater/ Sleeper (2+1),20:30,01:00,3.6,₹375,4h 30m,30 Seats,Guwahati to Tezpur,https://www.redbus.in/bus-tickets/guwahati-to-tezpur
+Yatra Travels,NON A/C Seater/ Sleeper (2+1),21:00,01:30,3.5,₹375,4h 30m,33 Seats,Guwahati to Tezpur,https://www.redbus.in/bus-tickets/guwahati-to-tezpur
+MAHARATHI TRANSPORT,Non AC Seater (2+1),21:15,00:45,4.5,₹350,3h 30m,19 Seats,Guwahati to Tezpur,https://www.redbus.in/bus-tickets/guwahati-to-tezpur
+Pranjit Travels (Under ASTC),Bharat Benz A/C Seater (2+1),21:30,02:30,3.2,₹500,5h,15 Seats,Guwahati to Tezpur,https://www.redbus.in/bus-tickets/guwahati-to-tezpur
+Pranjit Travels (Under ASTC),Non AC Seater (2+1),21:45,02:00,,₹450,4h 15m,16 Seats,Guwahati to Tezpur,https://www.redbus.in/bus-tickets/guwahati-to-tezpur
+Shruti(North East Travels),Tata A/C Seater (2+2),17:30,20:45,4.2,₹255,3h 15m,33 Seats,Guwahati to Nagaon (Assam),https://www.redbus.in/bus-tickets/guwahati-to-nagaon
+Anindita Travels,NON A/C Seater (2+1),20:45,00:00,4.1,₹401,3h 15m,35 Seats,Guwahati to Nagaon (Assam),https://www.redbus.in/bus-tickets/guwahati-to-nagaon
+Nishigandha(Divya Tours & Travels),A/C Seater (2+1),21:15,23:50,4.1,₹517,2h 35m,22 Seats,Guwahati to Nagaon (Assam),https://www.redbus.in/bus-tickets/guwahati-to-nagaon
+DESTINY TRAVELS,NON A/C Seater (2+1),16:45,20:15,1.1,₹356,3h 30m,1 Seats,Guwahati to Nagaon (Assam),https://www.redbus.in/bus-tickets/guwahati-to-nagaon
+Rongpur(Ayaan),Bharat Benz A/C Seater (2+1),19:15,21:45,2.9,₹450,2h 30m,25 Seats,Guwahati to Nagaon (Assam),https://www.redbus.in/bus-tickets/guwahati-to-nagaon
+Shopuris Travels,NON A/C Seater (2+1),19:45,22:00,3.3,₹600,2h 15m,14 Seats,Guwahati to Nagaon (Assam),https://www.redbus.in/bus-tickets/guwahati-to-nagaon
+Priyanka,Non AC Seater (2+1),17:30,05:00,3.7,₹600,11h 30m,7 Seats,North Lakhimpur to Jorhat,https://www.redbus.in/bus-tickets/north-lakhimpur-to-jorhat

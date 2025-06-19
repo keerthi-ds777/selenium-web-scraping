@@ -1,1 +1,92 @@
 BusName,BusType,StartTime,EndTime,Rating,Price,TotalDuration,SeatsAvailable,RouteName,Links
+FRESHBUS,Electric A/C Seater (2+2),12:45,19:40,4.7,₹300,6h 55m,9 Seats,Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada
+IntrCity SmartBus,A/C Seater / Sleeper (2+1),23:05,06:20,4.6,₹449,7h 15m,25 Seats,Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada
+FRESHBUS,Electric A/C Seater (2+2),22:35,05:25,4.7,₹467,6h 50m,33 Seats,Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada
+IntrCity SmartBus,AC Sleeper (2+1),00:20,06:45,4.1,₹569,6h 25m,24 Seats,Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada
+IntrCity SmartBus,A/C Seater / Sleeper (2+1),23:20,06:10,4.6,₹439,6h 50m,28 Seats,Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada
+IntrCity SmartBus,A/C Seater / Sleeper (2+1),23:30,06:15,4.6,₹469,6h 45m,11 Seats,Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada
+IntrCity SmartBus,Bharat Benz A/C Seater /Sleeper (2+1),23:40,06:10,4.5,₹419,6h 30m,35 Seats,Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada
+Sai RK Travels,Non A/C Seater / Sleeper (2+1),22:55,04:35,3.5,₹449,5h 40m,17 Seats,Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada
+FRESHBUS,Electric A/C Seater (2+2),23:59,06:45,4.5,₹467,6h 46m,40 Seats,Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada
+IntrCity SmartBus,VE A/C Seater / Sleeper (2+1),00:10,06:40,4.6,₹419,6h 30m,27 Seats,Hyderabad to Vijayawada,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada
+FRESHBUS,Electric A/C Seater (2+2),22:50,05:20,4.6,₹485,6h 30m,26 Seats,Vijayawada to Hyderabad,https://www.redbus.in/bus-tickets/vijayawada-to-hyderabad
+FRESHBUS,Electric A/C Seater (2+2),23:25,06:05,4.6,₹368,6h 40m,39 Seats,Vijayawada to Hyderabad,https://www.redbus.in/bus-tickets/vijayawada-to-hyderabad
+FRESHBUS,Electric A/C Seater (2+2),21:50,04:20,4.6,₹377,6h 30m,33 Seats,Vijayawada to Hyderabad,https://www.redbus.in/bus-tickets/vijayawada-to-hyderabad
+IntrCity SmartBus,A/C Seater / Sleeper (2+1),22:45,05:40,4.3,₹439,6h 55m,29 Seats,Vijayawada to Hyderabad,https://www.redbus.in/bus-tickets/vijayawada-to-hyderabad
+IntrCity SmartBus,A/C Seater / Sleeper (2+1),23:45,06:30,4.6,₹459,6h 45m,25 Seats,Vijayawada to Hyderabad,https://www.redbus.in/bus-tickets/vijayawada-to-hyderabad
+FRESHBUS,Electric A/C Seater (2+2),23:55,06:40,4.5,₹395,6h 45m,33 Seats,Vijayawada to Hyderabad,https://www.redbus.in/bus-tickets/vijayawada-to-hyderabad
+IntrCity SmartBus,A/C Seater / Sleeper (2+1),23:25,06:15,4.5,₹419,6h 50m,30 Seats,Vijayawada to Hyderabad,https://www.redbus.in/bus-tickets/vijayawada-to-hyderabad
+Sai RK Travels,Non A/C Seater / Sleeper (2+1),22:10,05:30,3.6,₹510,7h 20m,25 Seats,Vijayawada to Hyderabad,https://www.redbus.in/bus-tickets/vijayawada-to-hyderabad
+FRESHBUS,Electric A/C Seater (2+2),17:40,00:30,4.7,₹359,6h 50m,25 Seats,Vijayawada to Hyderabad,https://www.redbus.in/bus-tickets/vijayawada-to-hyderabad
+FRESHBUS,Electric A/C Seater (2+2),16:40,23:30,4.6,₹395,6h 50m,19 Seats,Vijayawada to Hyderabad,https://www.redbus.in/bus-tickets/vijayawada-to-hyderabad
+SRI VIJAYA KRISHNA TOURS and TRAVELS,Non A/C Seater / Sleeper (2+1),23:59,04:30,3.5,₹499,4h 31m,28 Seats,Kakinada to Visakhapatnam,https://www.redbus.in/bus-tickets/kakinada-to-visakhapatnam
+Vikram Travels,A/C Seater / Sleeper (2+1),21:55,05:30,4.6,₹609,7h 35m,27 Seats,Hyderabad to Ongole,https://www.redbus.in/bus-tickets/hyderabad-to-ongole
+Sri Vengamamba Bus Transport (SVBT),A/C Seater/Sleeper (2+1),22:00,06:15,4.4,₹800,8h 15m,19 Seats,Hyderabad to Ongole,https://www.redbus.in/bus-tickets/hyderabad-to-ongole
+FlixBus,A/C Sleeper (2+1),22:30,06:15,4.4,₹735,7h 45m,33 Seats,Hyderabad to Ongole,https://www.redbus.in/bus-tickets/hyderabad-to-ongole
+IntrCity SmartBus,AC Sleeper (2+1),23:55,05:50,4.5,₹789,5h 55m,14 Seats,Hyderabad to Ongole,https://www.redbus.in/bus-tickets/hyderabad-to-ongole
+FlixBus,A/C Sleeper (2+1),22:00,06:30,4.4,₹842,8h 30m,12 Seats,Hyderabad to Ongole,https://www.redbus.in/bus-tickets/hyderabad-to-ongole
+IntrCity SmartBus,A/C Seater / Sleeper (2+1),23:50,06:25,4.3,₹509,6h 35m,17 Seats,Hyderabad to Ongole,https://www.redbus.in/bus-tickets/hyderabad-to-ongole
+Kaveri Travels,Volvo Multi Axle A/C Sleeper I-Shift B11R (2+1),21:30,05:45,4.1,₹849,8h 15m,15 Seats,Hyderabad to Ongole,https://www.redbus.in/bus-tickets/hyderabad-to-ongole
+Pspk Bus,Non A/C Seater / Sleeper (2+1),21:30,06:30,4,₹450,9h,22 Seats,Hyderabad to Ongole,https://www.redbus.in/bus-tickets/hyderabad-to-ongole
+Kaveri Travels,NON AC Seater / Sleeper 2+1,22:00,05:30,4.2,₹450,7h 30m,26 Seats,Hyderabad to Ongole,https://www.redbus.in/bus-tickets/hyderabad-to-ongole
+V Kaveri Travels,Scania AC Multi Axle Sleeper (2+1),21:30,05:45,4.2,₹809,8h 15m,16 Seats,Hyderabad to Ongole,https://www.redbus.in/bus-tickets/hyderabad-to-ongole
+NueGo,Electric A/C Seater (2+2),12:45,17:15,4.3,₹332,4h 30m,15 Seats,Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi
+FRESHBUS,Electric A/C Seater (2+2),12:55,18:15,4.6,₹300,5h 20m,31 Seats,Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi
+Yolo Bus,Bharat Benz A/C Seater /Sleeper (2+1),12:59,18:18,3.6,₹100,5h 19m,13 Seats,Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi
+HYBUS,Bharat Benz A/C Sleeper (2+1),22:00,04:30,4.4,₹585,6h 30m,18 Seats,Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi
+NueGo,Electric A/C Seater (2+2),13:00,18:30,4.5,₹332,5h 30m,9 Seats,Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi
+Yolo Bus,Bharat Benz A/C Seater /Sleeper (2+1),13:29,16:53,3.9,₹100,3h 24m,16 Seats,Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi
+Yolo Bus,Bharat Benz A/C Seater /Sleeper (2+1),13:29,18:48,3.7,₹200,5h 19m,26 Seats,Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi
+Sai Sindhu Travels,A/C Sleeper (2+1),22:45,04:00,4.3,₹590,5h 15m,14 Seats,Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi
+FRESHBUS,Electric A/C Seater (2+2),14:30,20:40,4.6,₹476,6h 10m,11 Seats,Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi
+HYBUS,Bharat Benz A/C Sleeper (2+1),15:00,20:30,4.3,₹494,5h 30m,29 Seats,Bangalore to Tirupati,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi
+Vikram Travels,A/C Seater / Sleeper (2+1),23:15,06:18,4.7,₹519,7h 3m,29 Seats,Ongole to Hyderabad,https://www.redbus.in/bus-tickets/ongole-to-hyderabad
+IntrCity SmartBus,AC Sleeper (2+1),23:40,06:20,4.7,₹979,6h 40m,13 Seats,Ongole to Hyderabad,https://www.redbus.in/bus-tickets/ongole-to-hyderabad
+Sri Vengamamba Bus Transport (SVBT),A/C Seater/Sleeper (2+1),23:00,06:35,4.5,₹650,7h 35m,25 Seats,Ongole to Hyderabad,https://www.redbus.in/bus-tickets/ongole-to-hyderabad
+Sri Vengamamba Bus Transport (SVBT),A/C Sleeper (2+1),22:30,06:05,4.4,₹900,7h 35m,14 Seats,Ongole to Hyderabad,https://www.redbus.in/bus-tickets/ongole-to-hyderabad
+V Kaveri Travels,NON A/C Sleeper (2+1),22:45,06:10,4.4,₹750,7h 25m,27 Seats,Ongole to Hyderabad,https://www.redbus.in/bus-tickets/ongole-to-hyderabad
+Kaveri Travels,A/C Sleeper (2+1),21:50,05:55,4.2,₹719,8h 5m,16 Seats,Ongole to Hyderabad,https://www.redbus.in/bus-tickets/ongole-to-hyderabad
+Pspk Bus,Non A/C Seater / Sleeper (2+1),21:25,05:40,4.2,₹500,8h 15m,13 Seats,Ongole to Hyderabad,https://www.redbus.in/bus-tickets/ongole-to-hyderabad
+Kaveri Travels,NON AC Seater / Sleeper 2+1,22:20,05:45,4.3,₹450,7h 25m,18 Seats,Ongole to Hyderabad,https://www.redbus.in/bus-tickets/ongole-to-hyderabad
+FlixBus,A/C Sleeper (2+1),23:55,07:00,4.3,₹629,7h 5m,10 Seats,Ongole to Hyderabad,https://www.redbus.in/bus-tickets/ongole-to-hyderabad
+Kaveri Travels,Volvo Multi Axle A/C Sleeper I-Shift B11R (2+1),23:35,06:40,4.2,₹849,7h 5m,20 Seats,Ongole to Hyderabad,https://www.redbus.in/bus-tickets/ongole-to-hyderabad
+Sri Vengamamba Bus Transport (SVBT),A/C Seater / Sleeper (2+1),23:59,04:30,4.6,₹490,4h 31m,19 Seats,Anantapur (andhra pradesh) to Bangalore,https://www.redbus.in/bus-tickets/ananthapur-to-bangalore
+Shyamoli Paribahan Pvt Ltd,Volvo 9600 Multi-Axle A/C Sleeper (2+1),23:40,02:25,4.8,₹700,2h 45m,27 Seats,Anantapur (andhra pradesh) to Bangalore,https://www.redbus.in/bus-tickets/ananthapur-to-bangalore
+Royal Rich India - R No 208,Bharat Benz A/C Sleeper (2+1),20:10,23:45,4.6,"₹1,000",3h 35m,19 Seats,Anantapur (andhra pradesh) to Bangalore,https://www.redbus.in/bus-tickets/ananthapur-to-bangalore
+BHAIRAVA TOURS AND TRAVELS,Non A/C Seater / Sleeper (2+1),23:59,05:45,3.6,₹499,5h 46m,31 Seats,Anantapur (andhra pradesh) to Bangalore,https://www.redbus.in/bus-tickets/ananthapur-to-bangalore
+YAS Tours and Travels,Volvo Multi Axle A/C Sleeper I-Shift B11R (2+1),22:00,23:59,4.2,"₹1,100",1h 59m,23 Seats,Anantapur (andhra pradesh) to Bangalore,https://www.redbus.in/bus-tickets/ananthapur-to-bangalore
+Royal Rich India R No. 206,Bharat Benz A/C Sleeper (2+1),18:30,23:15,4.2,"₹1,000",4h 45m,17 Seats,Anantapur (andhra pradesh) to Bangalore,https://www.redbus.in/bus-tickets/ananthapur-to-bangalore
+OVR Travels,Non A/C Seater / Sleeper (2+1),23:40,05:30,4.5,₹650,5h 50m,34 Seats,Anantapur (andhra pradesh) to Bangalore,https://www.redbus.in/bus-tickets/ananthapur-to-bangalore
+YAS Tours and Travels,Volvo Multi Axle A/C Sleeper I-Shift B11R (2+1),23:55,03:45,4.2,"₹1,100",3h 50m,23 Seats,Anantapur (andhra pradesh) to Bangalore,https://www.redbus.in/bus-tickets/ananthapur-to-bangalore
+Kallada Travels (Suresh Kallada),Volvo Multi-Axle I-Shift A/C Semi Sleeper (2+2),20:25,00:00,3.2,₹650,3h 35m,16 Seats,Anantapur (andhra pradesh) to Bangalore,https://www.redbus.in/bus-tickets/ananthapur-to-bangalore
+OVR Travels,NON A/C Sleeper (2+1),23:40,05:30,3.1,₹850,5h 50m,26 Seats,Anantapur (andhra pradesh) to Bangalore,https://www.redbus.in/bus-tickets/ananthapur-to-bangalore
+Shiva Parvathi Tours And Travels,Non A/C Seater / Sleeper (2+1),19:00,02:30,3.9,₹600,7h 30m,17 Seats,Bangalore to Kadapa,https://www.redbus.in/bus-tickets/bangalore-to-kadapa
+BHAIRAVA TOURS AND TRAVELS,Non A/C Seater / Sleeper (2+1),19:15,03:00,3.8,₹499,7h 45m,19 Seats,Bangalore to Kadapa,https://www.redbus.in/bus-tickets/bangalore-to-kadapa
+Royal Voyage Travels (RVT),A/C Seater / Sleeper (2+1),19:20,03:25,4,₹600,8h 5m,28 Seats,Bangalore to Kadapa,https://www.redbus.in/bus-tickets/bangalore-to-kadapa
+AR & BCVR Travels,Non A/C Seater / Sleeper (2+1),21:30,04:00,4.3,₹660,6h 30m,30 Seats,Bangalore to Kadapa,https://www.redbus.in/bus-tickets/bangalore-to-kadapa
+Giridhar Tours and Travels,A/C Seater/Sleeper (2+1),19:24,02:59,4.7,₹700,7h 35m,26 Seats,Bangalore to Kadapa,https://www.redbus.in/bus-tickets/bangalore-to-kadapa
+SLVT Travels,Non A/C Seater / Sleeper (2+1),19:30,03:10,3.4,₹499,7h 40m,19 Seats,Bangalore to Kadapa,https://www.redbus.in/bus-tickets/bangalore-to-kadapa
+Amara Tours And Travels,A/C Seater / Sleeper (2+1),19:30,03:00,3,₹599,7h 30m,26 Seats,Bangalore to Kadapa,https://www.redbus.in/bus-tickets/bangalore-to-kadapa
+AR & BCVR Travels,Non A/C Seater / Sleeper (2+1),20:30,04:00,3.9,₹600,7h 30m,33 Seats,Bangalore to Kadapa,https://www.redbus.in/bus-tickets/bangalore-to-kadapa
+Sri Vinayaka Travels,NON A/C Sleeper (2+1),19:45,04:45,4.2,₹650,9h,10 Seats,Bangalore to Kadapa,https://www.redbus.in/bus-tickets/bangalore-to-kadapa
+MMR TRAVELS,Non A/C Seater / Sleeper (2+1),19:45,03:45,4.8,₹400,8h,23 Seats,Bangalore to Kadapa,https://www.redbus.in/bus-tickets/bangalore-to-kadapa
+Yolo Bus,Bharat Benz A/C Seater /Sleeper (2+1),13:06,17:43,3.5,₹200,4h 37m,14 Seats,Chittoor (Andhra Pradesh) to Bangalore,https://www.redbus.in/bus-tickets/chittoor-andhra-pradesh-to-bangalore
+FRESHBUS,Electric A/C Seater (2+2),13:10,17:05,4.7,₹314,3h 55m,6 Seats,Chittoor (Andhra Pradesh) to Bangalore,https://www.redbus.in/bus-tickets/chittoor-andhra-pradesh-to-bangalore
+NueGo,Electric A/C Seater (2+2),13:20,19:20,4.4,₹332,6h,5 Seats,Chittoor (Andhra Pradesh) to Bangalore,https://www.redbus.in/bus-tickets/chittoor-andhra-pradesh-to-bangalore
+NueGo,Electric A/C Seater (2+2),13:35,17:45,4.1,₹332,4h 10m,5 Seats,Chittoor (Andhra Pradesh) to Bangalore,https://www.redbus.in/bus-tickets/chittoor-andhra-pradesh-to-bangalore
+Yolo Bus,Bharat Benz A/C Seater /Sleeper (2+1),14:36,19:13,3.4,₹349,4h 37m,24 Seats,Chittoor (Andhra Pradesh) to Bangalore,https://www.redbus.in/bus-tickets/chittoor-andhra-pradesh-to-bangalore
+Yolo Bus,Bharat Benz A/C Seater /Sleeper (2+1),15:37,20:14,3.1,₹349,4h 37m,30 Seats,Chittoor (Andhra Pradesh) to Bangalore,https://www.redbus.in/bus-tickets/chittoor-andhra-pradesh-to-bangalore
+FRESHBUS,Electric A/C Seater (2+2),15:40,19:55,4.9,₹314,4h 15m,8 Seats,Chittoor (Andhra Pradesh) to Bangalore,https://www.redbus.in/bus-tickets/chittoor-andhra-pradesh-to-bangalore
+NueGo,Electric A/C Seater (2+2),16:50,22:50,3.7,₹332,6h,19 Seats,Chittoor (Andhra Pradesh) to Bangalore,https://www.redbus.in/bus-tickets/chittoor-andhra-pradesh-to-bangalore
+Yolo Bus,Bharat Benz A/C Seater /Sleeper (2+1),17:17,21:54,3.9,₹350,4h 37m,30 Seats,Chittoor (Andhra Pradesh) to Bangalore,https://www.redbus.in/bus-tickets/chittoor-andhra-pradesh-to-bangalore
+FRESHBUS,Electric A/C Seater (2+2),17:40,21:20,4.7,₹386,3h 40m,24 Seats,Chittoor (Andhra Pradesh) to Bangalore,https://www.redbus.in/bus-tickets/chittoor-andhra-pradesh-to-bangalore
+Sri Vengamamba Bus Transport (SVBT),A/C Seater / Sleeper (2+1),22:30,03:40,4.7,₹550,5h 10m,15 Seats,Bangalore to Anantapur (andhra pradesh),https://www.redbus.in/bus-tickets/bangalore-to-ananthapur
+IntrCity SmartBus,A/C Seater / Sleeper (2+1),19:00,23:00,4.2,₹509,4h,13 Seats,Bangalore to Anantapur (andhra pradesh),https://www.redbus.in/bus-tickets/bangalore-to-ananthapur
+IntrCity SmartBus,A/C Seater / Sleeper (2+1),20:55,00:45,4.6,₹549,3h 50m,16 Seats,Bangalore to Anantapur (andhra pradesh),https://www.redbus.in/bus-tickets/bangalore-to-ananthapur
+IntrCity SmartBus,A/C Seater / Sleeper (2+1),21:45,01:35,4.3,₹559,3h 50m,21 Seats,Bangalore to Anantapur (andhra pradesh),https://www.redbus.in/bus-tickets/bangalore-to-ananthapur
+IntrCity SmartBus,Bharat Benz A/C Sleeper (2+1),20:00,00:10,4.7,₹809,4h 10m,9 Seats,Bangalore to Anantapur (andhra pradesh),https://www.redbus.in/bus-tickets/bangalore-to-ananthapur
+Royal Rich India - R No 102,Bharat Benz A/C Sleeper (2+1),23:35,03:10,4.7,"₹1,200",3h 35m,24 Seats,Bangalore to Anantapur (andhra pradesh),https://www.redbus.in/bus-tickets/bangalore-to-ananthapur
+Go Tour Travels and Holidays,Bharat Benz A/C Sleeper (2+1),22:30,02:00,4.5,₹949,3h 30m,13 Seats,Bangalore to Anantapur (andhra pradesh),https://www.redbus.in/bus-tickets/bangalore-to-ananthapur
+OVR Travels,Non A/C Seater / Sleeper (2+1),20:00,03:00,4.4,₹650,7h,27 Seats,Bangalore to Anantapur (andhra pradesh),https://www.redbus.in/bus-tickets/bangalore-to-ananthapur
+IntrCity SmartBus,AC Sleeper (2+1),22:55,02:40,4.5,₹689,3h 45m,19 Seats,Bangalore to Anantapur (andhra pradesh),https://www.redbus.in/bus-tickets/bangalore-to-ananthapur
+BRS Travels,A/C Sleeper (2+1),21:00,02:00,3.1,₹800,5h,18 Seats,Bangalore to Anantapur (andhra pradesh),https://www.redbus.in/bus-tickets/bangalore-to-ananthapur

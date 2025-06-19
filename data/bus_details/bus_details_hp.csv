@@ -1,0 +1,77 @@
+BusName,BusType,StartTime,EndTime,Rating,Price,TotalDuration,SeatsAvailable,RouteName,Links
+Bedi Travels,Volvo A/C Semi Sleeper (2+2),23:00,08:00,4.7,₹508,9h,10 Seats,Delhi to Shimla,https://www.redbus.in/bus-tickets/delhi-to-shimla
+Laxmi holidays,Scania Multi-Axle AC Semi Sleeper (2+2),23:30,08:00,4.5,₹589,8h 30m,9 Seats,Delhi to Shimla,https://www.redbus.in/bus-tickets/delhi-to-shimla
+Laxmi holidays,Volvo A/C Semi Sleeper (2+2),23:25,07:45,4.5,₹549,8h 20m,18 Seats,Delhi to Shimla,https://www.redbus.in/bus-tickets/delhi-to-shimla
+Laxmi holidays,Scania Multi-Axle AC Semi Sleeper (2+2),22:30,07:20,4.5,₹720,8h 50m,11 Seats,Delhi to Shimla,https://www.redbus.in/bus-tickets/delhi-to-shimla
+Zingbus Plus,Bharat Benz A/C Semi Sleeper (2+2),22:55,08:30,4.5,₹669,9h 35m,17 Seats,Delhi to Shimla,https://www.redbus.in/bus-tickets/delhi-to-shimla
+HIM TOURS,Volvo A/C Semi Sleeper (2+2),22:45,06:45,4.7,"₹1,542",8h,41 Seats,Delhi to Shimla,https://www.redbus.in/bus-tickets/delhi-to-shimla
+Zingbus Plus,Bharat Benz A/C Semi Sleeper (2+2),23:30,08:15,4.2,₹662,8h 45m,5 Seats,Delhi to Shimla,https://www.redbus.in/bus-tickets/delhi-to-shimla
+FlixBus,Bharat Benz A/C Semi Sleeper (2+2),22:00,07:40,4.4,₹568,9h 40m,15 Seats,Delhi to Shimla,https://www.redbus.in/bus-tickets/delhi-to-shimla
+Vacation Express,Volvo 9600 A/C Semi Sleeper (2+2),23:15,07:35,4.3,₹517,8h 20m,18 Seats,Delhi to Shimla,https://www.redbus.in/bus-tickets/delhi-to-shimla
+Ram Dalal Holidays Pvt Ltd,Mercedes Multi-Axle Semi Sleeper (2+2),23:00,07:40,,₹688,8h 40m,17 Seats,Delhi to Shimla,https://www.redbus.in/bus-tickets/delhi-to-shimla
+HRTC - 401670,Ordinary 3+2 Non AC Seater,18:00,22:00,3.9,₹335,4h,28 Seats,Chandigarh to Hamirpur (Himachal Pradesh),https://www.redbus.in/bus-tickets/chandigarh-to-hamirpur-himachal-pradesh
+HRTC - 1549,Ordinary 3+2 Non AC Seater,18:15,01:00,4.2,₹390,6h 45m,37 Seats,Chandigarh to Hamirpur (Himachal Pradesh),https://www.redbus.in/bus-tickets/chandigarh-to-hamirpur-himachal-pradesh
+HRTC - 15,Volvo A/C Seater (2+2),20:00,00:10,5,₹671,4h 10m,31 Seats,Hamirpur (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/hamirpur-himachal-pradesh-to-chandigarh
+Laxmi holidays,Volvo A/C Semi Sleeper (2+2),20:20,00:30,4.2,₹579,4h 10m,5 Seats,Hamirpur (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/hamirpur-himachal-pradesh-to-chandigarh
+Ram Dalal Holidays Pvt Ltd,Volvo A/C Semi Sleeper (2+2),21:15,01:20,4.5,₹599,4h 5m,15 Seats,Hamirpur (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/hamirpur-himachal-pradesh-to-chandigarh
+Northern Travels,Volvo A/C Semi Sleeper (2+2),21:45,01:30,3.2,₹580,3h 45m,14 Seats,Hamirpur (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/hamirpur-himachal-pradesh-to-chandigarh
+Ram Dalal Holidays Pvt Ltd,Volvo A/C Semi Sleeper (2+2),22:00,02:20,5,₹599,4h 20m,8 Seats,Hamirpur (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/hamirpur-himachal-pradesh-to-chandigarh
+Bedi Travels,Volvo A/C Semi Sleeper (2+2),22:05,01:55,4.8,₹555,3h 50m,13 Seats,Hamirpur (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/hamirpur-himachal-pradesh-to-chandigarh
+Himalayan Nomad Ktc,Volvo A/C Semi Sleeper (2+2),22:05,01:30,4.2,₹630,3h 25m,1 Seats,Hamirpur (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/hamirpur-himachal-pradesh-to-chandigarh
+Himalayan Nomad Ktc,Volvo A/C Semi Sleeper (2+2),22:25,01:45,4.3,₹630,3h 20m,7 Seats,Hamirpur (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/hamirpur-himachal-pradesh-to-chandigarh
+Himachal Pradesh Tourism Development Corporation (HPTDC) - 49524,AC Seater (2+2),20:30,05:30,4.6,"₹1,000",9h,28 Seats,Shimla to Delhi,https://www.redbus.in/bus-tickets/shimla-to-delhi
+Bedi Travels,Volvo A/C Semi Sleeper (2+2),21:30,05:30,4.7,₹463,8h,15 Seats,Shimla to Delhi,https://www.redbus.in/bus-tickets/shimla-to-delhi
+Laxmi holidays,Scania Multi-Axle AC Semi Sleeper (2+2),22:30,07:00,4.4,₹500,8h 30m,11 Seats,Shimla to Delhi,https://www.redbus.in/bus-tickets/shimla-to-delhi
+Vacation Express,Volvo 9600 A/C Semi Sleeper (2+2),21:20,05:35,3.5,₹444,8h 15m,34 Seats,Shimla to Delhi,https://www.redbus.in/bus-tickets/shimla-to-delhi
+Zingbus Plus,Bharat Benz A/C Semi Sleeper (2+2),21:30,06:15,4.6,₹498,8h 45m,14 Seats,Shimla to Delhi,https://www.redbus.in/bus-tickets/shimla-to-delhi
+City Land Travels,Volvo A/C Semi Sleeper (2+2),22:30,05:30,4.3,₹475,7h,24 Seats,Shimla to Delhi,https://www.redbus.in/bus-tickets/shimla-to-delhi
+Zingbus Plus,Bharat Benz A/C Semi Sleeper (2+2),20:30,05:05,4.3,₹633,8h 35m,14 Seats,Shimla to Delhi,https://www.redbus.in/bus-tickets/shimla-to-delhi
+FlixBus,Bharat Benz A/C Semi Sleeper (2+2),21:30,06:20,4.4,₹379,8h 50m,31 Seats,Shimla to Delhi,https://www.redbus.in/bus-tickets/shimla-to-delhi
+Ram Dalal Holidays Pvt Ltd,Mercedes Multi-Axle Semi Sleeper (2+2),22:00,06:40,4.2,₹488,8h 40m,39 Seats,Shimla to Delhi,https://www.redbus.in/bus-tickets/shimla-to-delhi
+Laxmi holidays,Scania Multi-Axle AC Semi Sleeper (2+2),20:30,04:45,4.5,₹520,8h 15m,20 Seats,Shimla to Delhi,https://www.redbus.in/bus-tickets/shimla-to-delhi
+RSRTC - 166240,Express Non AC Seater 2+3,17:15,22:00,3.7,₹326,4h 45m,42 Seats,Delhi to Chandigarh,https://www.redbus.in/bus-tickets/delhi-to-chandigarh
+FlixBus,A/C Semi Sleeper (2+2),16:15,21:25,3.9,₹527,5h 10m,5 Seats,Delhi to Chandigarh,https://www.redbus.in/bus-tickets/delhi-to-chandigarh
+NueGo,Electric A/C Seater (2+2),16:30,21:55,3.9,₹418,5h 25m,20 Seats,Delhi to Chandigarh,https://www.redbus.in/bus-tickets/delhi-to-chandigarh
+Laxmi holidays,Bharat Benz A/C Seater /Sleeper (2+1),17:00,22:40,4.1,₹499,5h 40m,7 Seats,Delhi to Chandigarh,https://www.redbus.in/bus-tickets/delhi-to-chandigarh
+City Land Travels,Volvo A/C Semi Sleeper (2+2),17:00,22:45,3.6,₹570,5h 45m,21 Seats,Delhi to Chandigarh,https://www.redbus.in/bus-tickets/delhi-to-chandigarh
+Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),17:00,22:30,4.6,₹500,5h 30m,28 Seats,Delhi to Chandigarh,https://www.redbus.in/bus-tickets/delhi-to-chandigarh
+FlixBus,Bharat Benz A/C Semi Sleeper (2+2),17:30,00:05,3.1,₹652,6h 35m,22 Seats,Delhi to Chandigarh,https://www.redbus.in/bus-tickets/delhi-to-chandigarh
+Zingbus Plus,Volvo 9600 A/C Semi Sleeper (2+2),17:30,23:10,3.8,₹496,5h 40m,22 Seats,Delhi to Chandigarh,https://www.redbus.in/bus-tickets/delhi-to-chandigarh
+Laxmi holidays,Volvo Multi-Axle A/C Semi Sleeper (2+2),17:30,23:00,4.5,₹670,5h 30m,15 Seats,Delhi to Chandigarh,https://www.redbus.in/bus-tickets/delhi-to-chandigarh
+NueGo,Electric A/C Seater (2+2),17:30,22:35,4,₹399,5h 5m,32 Seats,Delhi to Chandigarh,https://www.redbus.in/bus-tickets/delhi-to-chandigarh
+HRTC - 1001,A/C Executive (2+3),17:15,04:00,3.1,₹746,10h 45m,35 Seats,Chamba (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/chamba-himachal-pradesh-to-chandigarh
+HRTC - 100,Volvo A/C Seater (2+2),17:40,04:00,3.9,"₹1,181",10h 20m,1 Seats,Chamba (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/chamba-himachal-pradesh-to-chandigarh
+HRTC - 1007,Ordinary 3+2 Non AC Seater,19:00,05:40,4.3,₹691,10h 40m,25 Seats,Chamba (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/chamba-himachal-pradesh-to-chandigarh
+HRTC - 1028,A/C Executive (2+3),20:15,07:15,3.7,₹734,11h,26 Seats,Chamba (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/chamba-himachal-pradesh-to-chandigarh
+Zingbus Plus,Bharat Benz A/C Semi Sleeper (2+2),20:30,23:45,4.9,₹254,3h 15m,16 Seats,Shimla to Chandigarh,https://www.redbus.in/bus-tickets/shimla-to-chandigarh
+Laxmi holidays,Scania Multi-Axle AC Semi Sleeper (2+2),20:30,23:35,4.5,₹520,3h 5m,25 Seats,Shimla to Chandigarh,https://www.redbus.in/bus-tickets/shimla-to-chandigarh
+FlixBus,Bharat Benz A/C Semi Sleeper (2+2),21:00,01:25,4.2,₹523,4h 25m,33 Seats,Shimla to Chandigarh,https://www.redbus.in/bus-tickets/shimla-to-chandigarh
+Deltin Travels Pvt Ltd,Scania Multi-Axle AC Semi Sleeper (2+2),21:20,23:59,3.5,₹500,2h 39m,37 Seats,Shimla to Chandigarh,https://www.redbus.in/bus-tickets/shimla-to-chandigarh
+Vacation Express,Volvo 9600 A/C Semi Sleeper (2+2),21:20,00:20,4.4,₹444,3h,34 Seats,Shimla to Chandigarh,https://www.redbus.in/bus-tickets/shimla-to-chandigarh
+Ram Dalal Holidays Pvt Ltd,Volvo A/C Semi Sleeper (2+2),21:30,00:30,4.6,₹548,3h,7 Seats,Shimla to Chandigarh,https://www.redbus.in/bus-tickets/shimla-to-chandigarh
+Zingbus Plus,Bharat Benz A/C Semi Sleeper (2+2),21:30,00:45,4.8,₹536,3h 15m,14 Seats,Shimla to Chandigarh,https://www.redbus.in/bus-tickets/shimla-to-chandigarh
+Bedi Travels,Volvo A/C Semi Sleeper (2+2),21:30,00:55,4.8,₹463,3h 25m,15 Seats,Shimla to Chandigarh,https://www.redbus.in/bus-tickets/shimla-to-chandigarh
+FlixBus,Bharat Benz A/C Semi Sleeper (2+2),21:30,01:55,4.2,₹523,4h 25m,27 Seats,Shimla to Chandigarh,https://www.redbus.in/bus-tickets/shimla-to-chandigarh
+Ram Dalal Holidays Pvt Ltd,Mercedes Multi-Axle Semi Sleeper (2+2),22:00,01:45,4.5,₹488,3h 45m,44 Seats,Shimla to Chandigarh,https://www.redbus.in/bus-tickets/shimla-to-chandigarh
+Laxmi holidays,Volvo 9600 A/C Semi Sleeper (2+2),18:00,00:20,4.8,₹689,6h 20m,5 Seats,Dharamshala (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/dharamshala-to-chandigarh
+Zingbus Plus,Volvo 9600 A/C Semi Sleeper (2+2),18:30,00:15,5,₹599,5h 45m,10 Seats,Dharamshala (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/dharamshala-to-chandigarh
+Laxmi holidays,Bharat Benz A/C Semi Sleeper (2+2),18:30,23:55,4.3,₹773,5h 25m,29 Seats,Dharamshala (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/dharamshala-to-chandigarh
+Bedi Travels,Volvo 9600 Multi Axle Semi-Sleeper (2+2),19:00,01:00,4.9,₹601,6h,8 Seats,Dharamshala (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/dharamshala-to-chandigarh
+Laxmi holidays,Volvo Multi-Axle A/C Semi Sleeper (2+2),19:00,01:20,4.6,₹599,6h 20m,20 Seats,Dharamshala (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/dharamshala-to-chandigarh
+Raghukul Holidays,Volvo A/C Semi Sleeper (2+2),19:05,01:15,4.2,₹539,6h 10m,22 Seats,Dharamshala (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/dharamshala-to-chandigarh
+FlixBus,Volvo 9600 A/C Semi Sleeper (2+2),19:15,01:20,4.7,₹732,6h 5m,20 Seats,Dharamshala (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/dharamshala-to-chandigarh
+Zingbus Plus,Volvo A/C Semi Sleeper (2+2),19:30,00:45,4.7,₹599,5h 15m,18 Seats,Dharamshala (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/dharamshala-to-chandigarh
+A N Holidays,Bharat Benz A/C Semi Sleeper (2+2),19:30,01:10,3.9,₹379,5h 40m,29 Seats,Dharamshala (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/dharamshala-to-chandigarh
+Zingbus Plus,Volvo Multi-Axle A/C Semisleeper (2+2),21:40,02:35,4.7,₹610,4h 55m,17 Seats,Dharamshala (Himachal Pradesh) to Chandigarh,https://www.redbus.in/bus-tickets/dharamshala-to-chandigarh
+Bedi Travels,Volvo A/C Semi Sleeper (2+2),21:30,06:15,4.8,₹873,8h 45m,2 Seats,Delhi to Hamirpur (Himachal Pradesh),https://www.redbus.in/bus-tickets/delhi-to-hamirpur-himachal-pradesh
+Ram Dalal Holidays Pvt Ltd,Volvo A/C Semi Sleeper (2+2),21:45,05:55,4.7,"₹1,109",8h 10m,11 Seats,Delhi to Hamirpur (Himachal Pradesh),https://www.redbus.in/bus-tickets/delhi-to-hamirpur-himachal-pradesh
+Ram Dalal Holidays Pvt Ltd,Volvo A/C Semi Sleeper (2+2),21:20,05:55,4.6,"₹1,129",8h 35m,3 Seats,Delhi to Hamirpur (Himachal Pradesh),https://www.redbus.in/bus-tickets/delhi-to-hamirpur-himachal-pradesh
+Northern Travels,Volvo A/C Semi Sleeper (2+2),21:30,05:40,3.8,"₹1,400",8h 10m,22 Seats,Delhi to Hamirpur (Himachal Pradesh),https://www.redbus.in/bus-tickets/delhi-to-hamirpur-himachal-pradesh
+Laxmi holidays,Volvo A/C Semi Sleeper (2+2),20:00,04:30,4.4,"₹1,029",8h 30m,3 Seats,Delhi to Hamirpur (Himachal Pradesh),https://www.redbus.in/bus-tickets/delhi-to-hamirpur-himachal-pradesh
+Himalayan Nomad Ktc,Volvo A/C Semi Sleeper (2+2),21:00,05:20,4.4,"₹1,233",8h 20m,9 Seats,Delhi to Hamirpur (Himachal Pradesh),https://www.redbus.in/bus-tickets/delhi-to-hamirpur-himachal-pradesh
+Himalayan Nomad Ktc,Volvo A/C Semi Sleeper (2+2),20:45,05:05,4.2,"₹1,026",8h 20m,5 Seats,Delhi to Hamirpur (Himachal Pradesh),https://www.redbus.in/bus-tickets/delhi-to-hamirpur-himachal-pradesh
+Laxmi holidays,Volvo A/C Semi Sleeper (2+2),22:00,06:30,4,"₹1,549",8h 30m,6 Seats,Delhi to Hamirpur (Himachal Pradesh),https://www.redbus.in/bus-tickets/delhi-to-hamirpur-himachal-pradesh
+HRTC - 290,Ordinary 3+2 Non AC Seater,19:00,05:30,2.1,₹665,10h 30m,25 Seats,Shimla to Manali,https://www.redbus.in/bus-tickets/shimla-to-manali
+HRTC - 291,Himmani Deluxe 2+2 Non AC Seater,20:20,05:00,2.9,₹732,8h 40m,20 Seats,Shimla to Manali,https://www.redbus.in/bus-tickets/shimla-to-manali
+HRTC - 154,Volvo A/C Seater (2+2),21:00,06:10,3.6,"₹1,383",9h 10m,34 Seats,Shimla to Manali,https://www.redbus.in/bus-tickets/shimla-to-manali
+HRTC - 293,Ordinary 3+2 Non AC Seater,21:40,06:00,3.1,₹635,8h 20m,29 Seats,Shimla to Manali,https://www.redbus.in/bus-tickets/shimla-to-manali
