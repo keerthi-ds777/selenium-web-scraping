@@ -7,72 +7,72 @@ import time
 
 #kerala bus
 list_k=[]
-df_k=pd.read_csv('df_kl.csv')
+df_k=pd.read_csv(r'data\bus_details\bus_details_kl.csv')
 for i,r in df_k.iterrows():
-    list_k.append(r['route_names'])
+    list_k.append(r['RouteName'])
     
 #andhara pradesh bus
 
 list_ap=[]
-df_ap=pd.read_csv('df_ap.csv')
+df_ap=pd.read_csv(r'data\bus_details\bus_details_ap.csv')
 for i,r in df_ap.iterrows():
-    list_ap.append(r['route_names'])
+    list_ap.append(r['RouteName'])
 
 #telungana bus
 
 list_tl=[]
-df_tl=pd.read_csv('df_tl.csv')
+df_tl=pd.read_csv(r'data\bus_details\bus_details_tl.csv')
 for i,r in df_tl.iterrows():
-    list_tl.append(r['route_names'])
+    list_tl.append(r['RouteName'])
 
 #kadamba bus
 
 list_kb=[]
-df_kb=pd.read_csv('df_kb.csv')
+df_kb=pd.read_csv(r'data\bus_details\bus_details_kb.csv')
 for i,r in df_kb.iterrows():
-    list_kb.append(r['route_names'])
+    list_kb.append(r['RouteName'])
 
 #rajasthan bus
 
 list_rs=[]
-df_rs=pd.read_csv('df_rs.csv')
+df_rs=pd.read_csv(r'data\bus_details\bus_details_rs.csv')
 for i,r in df_rs.iterrows():
-    list_rs.append(r['route_names'])
+    list_rs.append(r['RouteName'])
     
 #south bengal
 
 list_sb=[]
-df_sb=pd.read_csv('df_sb.csv')
+df_sb=pd.read_csv(r'data\bus_details\bus_details_sb.csv')
 for i,r in df_sb.iterrows():
-    list_sb.append(r['route_names'])
+    list_sb.append(r['RouteName'])
     
 #himachal pradesh
 
 list_hr=[]
-df_hr=pd.read_csv('df_hr.csv')
+df_hr=pd.read_csv(r'data\bus_details\bus_details_hp.csv')
 for i,r in df_hr.iterrows():
-    list_hr.append(r['route_names'])
+    list_hr.append(r['RouteName'])
     
 #assam
 
 list_as=[]
-df_as=pd.read_csv('df_as.csv')
+df_as=pd.read_csv(r'data\bus_details\bus_details_as.csv')
 for i,r in df_as.iterrows():
-    list_as.append(r['route_names'])
+    list_as.append(r['RouteName'])
 
 #uttar pradesh
 
 list_up=[]
-df_up= pd.read_csv('df_up.csv')
+df_up= pd.read_csv(r'data\bus_details\bus_details_up.csv')
 for i,r in df_up.iterrows():
-    list_up.append(r['route_names'])
+    list_up.append(r['RouteName'])
 
 #west bengal
 
 list_wb=[]
-df_wb=pd.read_csv('df_up.csv')
+df_wb=pd.read_csv(r'data\bus_details\bus_details_wb.csv')
 for i,r in df_wb.iterrows():
-    list_wb.append(r['route_names'])
+    list_wb.append(r['RouteName'])
     
 
 #setting page configuration
@@ -84,24 +84,44 @@ web= option_menu(menu_title='Red Bus',
                  orientation='Horizontal')
 
 #setting home page 
-if web=='Home':
-    slt.title('Red Bus Information System')
-    slt.subheader(":[Domain:] Transportation")
-    slt.subheader(":[Objective:]")  
-    slt.image('redbus.jpg', caption='Red Bus',use_column_width=True)
-    slt.markdown('Welcome to Red Bus Information System, an interactive platform that provides real-time updates on Kerala, Andhra Pradesh, Telangana, Kadamba, Rajasthan, South Bengal, Himachal Pradesh, Assam, Uttar Pradesh, and West Bengal Red Bus services.')
-    slt.markdown('Please select the state and route you are interested in.')
-    
-# states and route page settings
-if web=='states and routes':
-   S= slt.selectbox("Lists of states",['Kerala','Andhara pradesh','Telungana','Kadambam','Rajasthan','Assam','South bengal','Uttar pradesh','Himachal pradesh'])
-   select_fare=slt.radio('choose bus fare range',['50-1000','1000-2000','2000 above'])
+# Home page setting
+if web=="Home":
+    #slt.image("redBus-Logo-Vector.svg", width=200)
+    slt.title("Redbus Data Scraping with Selenium & Dynamic Filtering using Streamlit")
+    slt.subheader(":blue[Domain:] Transportation")
+    slt.subheader(":blue[Objective:]")
+    slt.markdown(""" The 'Redbus Data Scraping and Filtering with Streamlit Application' aims to revolutionize the transportation industry by providing a comprehensive solut...""")
+    slt.subheader(":blue[Overview:]")
+    slt.markdown("""Selenium: Selenium is a tool used for automating web browsers. It is commonly used for web scraping, which involves extracting data from websites. 
+    Pandas: use the powerful Pandas library to transform the dataset from CSV format into a structured dataframe.
+    Pandas helps data manipulation, cleaning, and preprocessing, ensuring that data was ready for analysis."""
+    )
+    slt.markdown("""MySQL with help of sql to establish a connection to a SQL database, enabling seamless integration of the transformed dataset
+    and the data was efficiently inserted into relevant tables for storage and retrieval""")
+    slt.markdown("Streamlit: Developed an interactive web application using Streamlit, a user friendly framework for data visualization and analysis.")
+    slt.subheader(":blue[Skill take:]")
+    slt.markdown("Selenium, Python, Pandas, Mysql, mysql-connector-python, Streamlit.")
+    slt.subheader(":blue[Developed by:] Kavitha Thangavel")
+
+# States and Routes page setting
+if web=="🌐 States and Routes":
+   slt.title("States and Routes")
+   slt.write("Select a state to view available routes.")
+   S = slt.selectbox("Lists of States",["Kerala","Andhra Pradesh","Telugana","Goa",
+        "Rajasthan","South Bengal","Haryana","Assam","Uttra Pradesh","West Bengal"])
+
+   select_fare = slt.radio("choose bus fare range",["50-1000","1000-2000","2000 and above"])
+
+
  
    if S=='Kerala':
+       slt.title("States and Routes")
+       slt.write("Select a state to view available routes.")
+    # Add more widgets or data display here
        k= slt.selectbox('list of routes',list_k)
        
        if select_fare=="50-1000":
-            conn=mysql.connector.connect(host='localhost',username='root',password='1234',database='redbus')
+            conn=mysql.connector.connect(host='127.0.0.1',port=3306,username='root',password='1234',database='redbus')
             cursor=conn.cursor()
             
             query=f'''select * from bus_details where
@@ -110,13 +130,13 @@ if web=='states and routes':
 
             cursor.execute(query)
             result=cursor.fetchall()
-            df=pd.DataFrame(result, columns=['ID','Bus_Name','Start_Time','End_Time','Time_duration','Price',
+            df=pd.DataFrame(result, columns=['ID','Bus_Name','Bus_type','Start_Time','End_Time','Time_duration','Price',
                                              'Seats_available','Rating','Route_link','Route_name'])
             slt.dataframe(df)
             
 
        elif select_fare=="1000-2000":
-                conn=mysql.connector.connect(host='localhost',username='root',password='1234',database='redbus')
+                conn=mysql.connector.connect(host='127.0.0.1',port=3306,password='1234',database='redbus')
                 cursor=conn.cursor()
                 query=f'''select * from bus_details where
                 price between  1000 and 2000 and Route_name = {k}
@@ -129,7 +149,7 @@ if web=='states and routes':
                 slt.dataframe(df)
                 
        elif select_fare=="2000 and above":
-            conn=mysql.connector.connect(host='localhost',username='root',password='1234',database='practice connection')
+            conn=mysql.connector.connect(host='127.0.0.1',port=3306,password='1234',database='practice connection')
             cursor=conn.cursor()
             
             query=f'''select * from bus_details where
@@ -151,7 +171,7 @@ if web=='states and routes':
        k= slt.selectbox('list of routes',list_ap)
        
        if select_fare=="50-1000":
-            conn=mysql.connector.connect(host='localhost',username='root',password='1234',database='practice connection')
+            conn=mysql.connector.connect(host='127.0.0.1',port=3306,password='1234',database='practice connection')
             cursor=conn.cursor()
             
             query=f'''select * from bus_details where
@@ -166,7 +186,7 @@ if web=='states and routes':
             
 
        elif select_fare=="1000-2000":
-                conn=mysql.connector.connect(host='localhost',username='root',password='1234',database='practice connection')
+                conn=mysql.connector.connect(host='127.0.0.1',port=3306,username='root',password='1234',database='practice connection')
                 cursor=conn.cursor()
                 
                 query=f'''select * from bus_details where
@@ -180,7 +200,7 @@ if web=='states and routes':
                 slt.dataframe(df)
                 
        elif select_fare=="2000 and above":
-            conn=mysql.connector.connect(host='localhost',username='root',password='1234',database='practice connection')
+            conn=mysql.connector.connect(host='127.0.0.1',port=3306,username='root',password='1234',database='practice connection')
             cursor=conn.cursor()
             
             query=f'''select * from bus_details where
@@ -200,7 +220,7 @@ if web=='states and routes':
        k= slt.selectbox('list of routes',list_tl)
        
        if select_fare=="50-1000":
-            conn=mysql.connector.connect(host='localhost',username='root',password='1234',database='practice connection')
+            conn=mysql.connector.connect(host='127.0.0.1',port=3306,username='root',password='1234',database='practice connection')
             cursor=conn.cursor()
             
             query=f'''select * from bus_details where
@@ -215,7 +235,7 @@ if web=='states and routes':
             
 
        elif select_fare=="1000-2000":
-                conn=mysql.connector.connect(host='localhost',username='root',password='1234',database='practice connection')
+                conn=mysql.connector.connect(host='127.0.0.1',port=3306,username='root',password='1234',database='practice connection')
                 cursor=conn.cursor()
                 
                 query=f'''select * from bus_details where
@@ -229,7 +249,7 @@ if web=='states and routes':
                 slt.dataframe(df)
                 
        elif select_fare=="2000 and above":
-            conn=mysql.connector.connect(host='localhost',username='root',password='1234',database='practice connection')
+            conn=mysql.connector.connect(host='127.0.0.1',port=3306,username='root',password='1234',database='practice connection')
             cursor=conn.cursor()
             
             query=f'''select * from bus_details where
@@ -248,7 +268,7 @@ if web=='states and routes':
        k= slt.selectbox('list of routes',list_kb)
        
        if select_fare=="50-1000":
-            conn=mysql.connector.connect(host='localhost',username='root',password='1234',database='practice connection')
+            conn=mysql.connector.connect(host='127.0.0.1',port=3306,username='root',password='1234',database='practice connection')
             cursor=conn.cursor()
             
             query=f'''select * from bus_details where
@@ -263,7 +283,7 @@ if web=='states and routes':
             
 
        elif select_fare=="1000-2000":
-                conn=mysql.connector.connect(host='localhost',username='root',password='1234',database='practice connection')
+                conn=mysql.connector.connect(host='127.0.0.1',port=3306,username='root',password='1234',database='practice connection')
                 cursor=conn.cursor()
                 
                 query=f'''select * from bus_details where
@@ -277,7 +297,7 @@ if web=='states and routes':
                 slt.dataframe(df)
                 
        elif select_fare=="2000 and above":
-            conn=mysql.connector.connect(host='localhost',username='root',password='1234',database='practice connection')
+            conn=mysql.connector.connect(host='127.0.0.1',port=3306,username='root',password='1234',database='practice connection')
             cursor=conn.cursor()
             
             query=f'''select * from bus_details where
@@ -296,7 +316,7 @@ if web=='states and routes':
        k= slt.selectbox('list of routes',list_rs)
        
        if select_fare=="50-1000":
-            conn=mysql.connector.connect(host='localhost',username='root',password='1234',database='practice connection')
+            conn=mysql.connector.connect(host='127.0.0.1',port=3306,username='root',password='1234',database='practice connection')
             cursor=conn.cursor()
             
             query=f'''select * from bus_details where
@@ -311,7 +331,7 @@ if web=='states and routes':
             
 
        elif select_fare=="1000-2000":
-                conn=mysql.connector.connect(host='localhost',username='root',password='1234',database='practice connection')
+                conn=mysql.connector.connect(host='127.0.0.1',port=3306,username='root',password='1234',database='practice connection')
                 cursor=conn.cursor()
                 
                 query=f'''select * from bus_details where
@@ -325,7 +345,7 @@ if web=='states and routes':
                 slt.dataframe(df)
                 
        elif select_fare=="2000 and above":
-            conn=mysql.connector.connect(host='localhost',username='root',password='1234',database='practice connection')
+            conn=mysql.connector.connect(host='127.0.0.1',port=3306,username='root',password='1234',database='practice connection')
             cursor=conn.cursor()
             
             query=f'''select * from bus_details where
@@ -344,7 +364,7 @@ if web=='states and routes':
        k= slt.selectbox('list of routes',list_tl)
        
        if select_fare=="50-1000":
-            conn=mysql.connector.connect(host='localhost',username='root',password='1234',database='practice connection')
+            conn=mysql.connector.connect(host='127.0.0.1',port=3306,username='root',password='1234',database='practice connection')
             cursor=conn.cursor()
             
             query=f'''select * from bus_details where
@@ -359,7 +379,7 @@ if web=='states and routes':
             
 
        elif select_fare=="1000-2000":
-                conn=mysql.connector.connect(host='localhost',username='root',password='1234',database='practice connection')
+                conn=mysql.connector.connect(host='127.0.0.1',port=3306,username='root',password='1234',database='practice connection')
                 cursor=conn.cursor()
                 
                 query=f'''select * from bus_details where
@@ -373,7 +393,7 @@ if web=='states and routes':
                 slt.dataframe(df)
                 
        elif select_fare=="2000 and above":
-                conn=mysql.connector.connect(host='localhost',username='root',password='1234',database='practice connection')
+                conn=mysql.connector.connect(host='127.0.0.1',port=3306,username='root',password='1234',database='practice connection')
                 cursor=conn.cursor()
                 
                 query=f'''select * from bus_details where
@@ -392,7 +412,7 @@ if web=='states and routes':
        k= slt.selectbox('list of routes',list_as)
        
        if select_fare=="50-1000":
-            conn=mysql.connector.connect(host='localhost',username='root',password='1234',database='practice connection')
+            conn=mysql.connector.connect(host='127.0.0.1',port=3306,username='root',password='1234',database='practice connection')
             cursor=conn.cursor()
             
             query=f'''select * from bus_details where
@@ -407,7 +427,7 @@ if web=='states and routes':
             
 
        elif select_fare=="1000-2000":
-                conn=mysql.connector.connect(host='localhost',username='root',password='1234',database='practice connection')
+                conn=mysql.connector.connect(host='127.0.0.1',port=3306,username='root',password='1234',database='practice connection')
                 cursor=conn.cursor()
                 
                 query=f'''select * from bus_details where
