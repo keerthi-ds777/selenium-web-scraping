@@ -30,7 +30,7 @@ web = option_menu(menu_title='Red Bus',
 
 # Home Page
 if web == "Home":
-    slt.image("data\image\redBus-Logo-Vector.svg", width=200)
+    #slt.image("data\image\redBus-Logo-Vector.svg", width=200)
 
     slt.title("Redbus Data Scraping with Selenium & Dynamic Filtering using Streamlit")
     slt.subheader(":blue[Domain:] Transportation")
